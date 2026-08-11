@@ -116,9 +116,6 @@ int main(void)
   HD44780_Clear();
   HD44780_SetCursor(7,1);
   HD44780_PrintStr("fun!");
-
-
-
   /* USER CODE END 2 */
 
   /* Infinite loop */
