@@ -100,7 +100,7 @@ int main(void)
   HD44780_Backlight();
   HD44780_Clear();
   HD44780_SetCursor(3,0);
-  HD44780_PrintStr("Hello Leyla :)");
+  HD44780_PrintStr("Hello World :)");
   for(int x=0; x<18; x=x+1)
     {
     HD44780_ScrollDisplayLeft();  //Scrolling left
