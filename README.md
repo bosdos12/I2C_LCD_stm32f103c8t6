@@ -17,3 +17,5 @@ In that case:
 
 After these steps, compile your code, and flash it to your microcontroller. The display should run.
  
+![lcd_i2c_setup_photo.jpeg](https://raw.githubusercontent.com/bosdos12/I2C_LCD_stm32f103c8t6/refs/heads/main/Images/lcd_i2c_setup_photo.jpeg)
+![lcd_i2c_screenshot_saleae.jpeg](https://raw.githubusercontent.com/bosdos12/I2C_LCD_stm32f103c8t6/refs/heads/main/Images/lcd_i2c_screenshot_saleae.jpeg)
